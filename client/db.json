@@ -1,0 +1,58 @@
+{
+  "clientes": [
+    {
+      "nombre": "Giovanni",
+      "telefono": "7227683202",
+      "email": "gijimenez30@gmail.com",
+      "id": 1
+    },
+    {
+      "nombre": "German",
+      "telefono": "3987165337",
+      "email": "carlos.bautista@kavak.com",
+      "id": 2
+    },
+    {
+      "nombre": "Juan",
+      "telefono": "7224228515",
+      "email": "juan.gomez@kavak.com",
+      "id": 3
+    },
+    {
+      "nombre": "Yilda",
+      "telefono": "7227683202",
+      "email": "itzel.torres@kavak.com",
+      "id": 4
+    },
+    {
+      "nombre": "Giovanni Moises",
+      "telefono": "32",
+      "email": "giovanni@kavak.com",
+      "id": 5
+    },
+    {
+      "nombre": "Morella",
+      "telefono": "7227683202",
+      "email": "itzel.torres@kavak.com",
+      "id": 6
+    },
+    {
+      "nombre": "Juan",
+      "telefono": "7227683202",
+      "email": "carlos.bautista@kavak.com",
+      "id": 7
+    },
+    {
+      "nombre": "Yilda",
+      "telefono": "7224228515",
+      "email": "itzel.torres@kavak.com",
+      "id": 8
+    },
+    {
+      "nombre": "Morella",
+      "telefono": "3987165337",
+      "email": "juan.gomez@kavak.com",
+      "id": 9
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+###
+GET http://localhost:10000/api/clientes HTTP/1.1
+
+###
+GET http://localhost:10000/api/clientes/1 HTTP/1.1
+
+
+###
+post http://localhost:10000/api/clientes HTTP/1.1
+content-type: application/json
+
+{
+    "nombre": "jose",
+    "email": "jose@gmail.com",
+    "telefono": 712342121
+}
+
+###
+DELETE http://localhost:10000/api/clientes/6 HTTP/1.1
+
+###
+PUT http://localhost:10000/api/clientes/5 HTTP/1.1
+content-type: application/json
+
+{
+    "nombre": "juan2",
+    "email": "juan2@gmail.com",
+    "telefono": 7276812123
+
+}
